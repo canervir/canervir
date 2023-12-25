@@ -1,4 +1,5 @@
-### Hi there 👋 I’m currently learning NLP 
+### Hi there 👋 
+I’m currently learning NLP 
 <!--
 **canervir/canervir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
